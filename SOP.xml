@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sop>
+    <intro>This STandard Operating Procedure (SOP) will teach you how to register for Summer and Winter
+        Session classes. 
+        
+    </intro>
+    
+    <sessions>
+        <session>
+            <url>Winter.html</url>
+            <sessiontitle>Winter Sessions at Virginia Tech</sessiontitle>
+            <welcome>Here you will learn how to </welcome>
+            <tasks>
+                <tasktitle></tasktitle>
+                <staging></staging>
+                <ingedients>
+                    <item>A computer</item>
+                </ingedients>
+                <ingedients>
+                    <item>A cellphone</item>
+                </ingedients>
+                <steps>
+                    <action>Do this</action>
+                    <note>Be sure to also do this</note>
+                </steps>
+                <summary></summary>
+                
+            </tasks>
+            
+      </session>
+        <session>
+            <url>winter.html</url>
+            <sessiontitle>Winter sessions at Virginia Tech</sessiontitle>
+            <welcome>welcome to winter session</welcome>
+            <tasks>
+                <tasktitle></tasktitle>
+                <staging></staging>
+                <ingedients>
+                  
+                </ingedients>
+                <steps>
+                    
+                </steps>
+                <summary></summary>
+                
+            </tasks>
+            
+            
+            
+        </session>
+        
+        
+    </sessions>
+    
+    
+    
+   
+</sop>
